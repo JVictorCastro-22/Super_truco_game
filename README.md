@@ -12,14 +12,13 @@ Este é um programa em C que permite comparar atributos entre duas cartas de cid
 bash
 ./comparador
 
-📋 Instruções de uso
+## 📋 Instruções de uso
 Digite os dados para duas cartas de cidades.
 
 Escolha dois atributos diferentes para comparar.
-
 O programa exibirá os resultados da comparação para cada atributo, somará os valores e determinará a carta vencedora.
 
-📖 Exemplo de uso
+## 📖 Exemplo de uso
 Entrada de dados:
 Ao iniciar, o programa pedirá para você inserir os dados das duas cartas. Exemplo:
 Digite os dados da primeira carta:
@@ -68,7 +67,7 @@ Carta 1: 707000000
 Carta 2: 406700000
 A Carta 1 vence pela maior soma dos atributos!
 
-🏆 Atributos disponíveis para comparação
+## 🏆 Atributos disponíveis para comparação
 População
 
 Área (km²)
@@ -79,14 +78,10 @@ Densidade Demográfica (habitantes/km²)
 
 Número de Pontos Turísticos
 
-💡 Dicas
+## 💡 Dicas
 Certifique-se de digitar valores válidos ao preencher os dados das cartas.
 
 Escolha atributos diferentes no menu interativo.
 
-🤝 Contribuindo
+## 🤝 Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-📜 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
